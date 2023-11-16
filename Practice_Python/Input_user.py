@@ -1,0 +1,9 @@
+# INPUT DATA DARI USER
+
+print("DATA MAHASISWA BARU")
+print("===================")
+data_nama = input("Nama = ") # DATA STRING MENJADI TIPE DATA INPUT 
+data_TTL = input("TTL = ") # DATA STRING MENJADI TIPE DATA INPUT 
+data_usia = int(input("Usia = ")) # JIKA INGIN INTEGER SEBAGAI DATA INPUTAN, HARAP DI CASTING DULU
+data_TB = float(input("Tinggi Badan = ")) # JIKA INGIN FLOAT SEBAGAI DATA INPUTAN, HARAP DI CASTING DULU
+data_BB = float(input("Berat Badan = ")) # JIKA INGIN FLOAT SEBAGAI DATA INPUTAN, HARAP DI CASTING DULU
