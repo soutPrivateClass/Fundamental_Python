@@ -46,9 +46,6 @@ def word(fungsi):
         print("Terimakasih program selesai")
     return aritmatika
 
-    
-
-
 @word  # PENAMBAHAN DECORATOR 
 def word2():
     print(f"1 + 1 = 2")
